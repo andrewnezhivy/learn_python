@@ -12,3 +12,4 @@ x = 5
 y = 7
 
 printMax(x, y)
+printMax(y, x)
