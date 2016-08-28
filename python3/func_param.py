@@ -6,6 +6,7 @@ def print_max(a, b):
     else:
         print(b, 'is the maximum')
 
+
 print_max(3, 4)
 
 x = 5
