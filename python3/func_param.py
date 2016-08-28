@@ -1,4 +1,4 @@
-def printMax(a, b):
+def print_max(a, b):
     if a > b:
         print(a, 'is the maximum')
     elif a == b:
@@ -6,10 +6,10 @@ def printMax(a, b):
     else:
         print(b, 'is the maximum')
 
-printMax(3, 4)
+print_max(3, 4)
 
 x = 5
 y = 7
 
-printMax(x, y)
-printMax(y, x)
+print_max(x, y)
+print_max(y, x)
