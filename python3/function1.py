@@ -1,5 +1,6 @@
-def sayHello():
-	print('hello, world')
+def say_hello():
+    print('hello, world')
 
-sayHello()
-sayHello()
+
+say_hello()
+say_hello()

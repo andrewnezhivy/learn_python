@@ -1,4 +1,4 @@
 for i in range(1, 5):
-	print(i)
+    print(i)
 else:
-	print('for..in loop completed')
+    print('for..in loop completed')
